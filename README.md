@@ -36,4 +36,6 @@ All the images or videos used are taken from the original website. Credit for al
 
 ## Beta
 This website is in a **beta process**. Currently it can be usable in Windows, MacOS or any other computer browsers.
-People may have difficulties viewing this website on a mobile phone/smartphone. We are working to fix the dimensions for mobile devices, until then you can enjoy our website on the aforementioned platforms.
+People may have difficulties viewing this website on a mobile phone/smartphone.
+
+ℹ️ We are working to fix the dimensions for mobile devices, until then you can enjoy our website on the aforementioned platforms.
