@@ -39,3 +39,6 @@ This website is in a **beta process**. Currently it can be usable in Windows, Ma
 People may have difficulties viewing this website on a mobile phone/smartphone.
 
 ℹ️ We are working to fix the dimensions for mobile devices, until then you can enjoy our website on the aforementioned platforms.
+
+## Hosting
+We are using **GitHub Pages** for hosting the clone of the original website.
